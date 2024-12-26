@@ -72,6 +72,6 @@
 
 <p>The visualization paints a picture of a diverse content library on Amazon Prime Video, with a strong emphasis on TV shows. The data suggests a wide range of genres and target audiences. The growth in content over time indicates the platform's continuous expansion and investment in content acquisition. The geographic distribution highlights the global reach of Prime Video's content.</p>
 
-<img src="your_image_name.png" alt="Prime Video Data Visualization" width="800">
+
 <br>
 <small><em>Data visualization of Amazon Prime Video content.</em></small>
