@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/34dda504-d24b-4a5d-9c9e-123e49e6940e)
+
 # Amazon Prime Dashboard
 
 ### Interpreting the Prime Video Data Visualization
