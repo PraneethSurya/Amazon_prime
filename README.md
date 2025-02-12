@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/37aaf508-c767-40e0-bae9-10ae88c2ceec)
+![image](https://github.com/user-attachments/assets/c444a11e-33a8-4194-9169-75543ad7c0de)
+
 
 # Amazon Prime Dashboard
 
